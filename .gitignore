@@ -1,0 +1,7 @@
+admissions_processed_metadata.json
+admissions_processed.csv
+admissions_processed.json
+data.jsonl
+data.json
+usa_decisions_cleaned_with_uuid.jsonl
+*.ipynb_checkpoints/
