@@ -1,0 +1,48 @@
+================================================================================
+SUMMARY STATISTICS
+================================================================================
+
+Total Records: 250795
+Total Students: 80130
+International Students: 248035
+Domestic Students: 2760
+Total Admitted: 164939
+Total Rejected: 85856
+Overall Admission Rate (%): 65.77
+Avg GPA (Normalized): 7.88
+Avg GRE Total: 309.96
+Avg TOEFL: 99.84
+Avg IELTS: 7.17
+Avg Work Experience (months): 16.73
+Avg Publications: 0.24
+Students with Scholarships: 1667
+Unique Universities: 519
+Unique Programs: 1941
+
+================================================================================
+TOP 10 UNIVERSITIES BY APPLICATION COUNT
+================================================================================
+1. Northeastern University, Boston: 13113
+2. Arizona State University: 11819
+3. The University of Texas at Dallas: 10795
+4. University at Buffalo SUNY: 8476
+5. The University of Texas at Arlington: 5941
+6. University of Southern California: 5668
+7. Texas A&M University, College Station: 5063
+8. Stevens Institute of Technology: 4916
+9. New Jersey Institute of Technology: 4868
+10. University of Illinois at Chicago: 4500
+
+================================================================================
+TOP 10 PROGRAMS BY APPLICATION COUNT
+================================================================================
+1. Computer Science: 77428
+2. Data Science: 12677
+3. Business Analytics: 8435
+4. Electrical Engineering: 8277
+5. Mechanical Engineering: 7239
+6. Information Systems: 7164
+7. Electrical and Computer Engineering: 7095
+8. Industrial Engineering: 7043
+9. Computer Science and Engineering: 5722
+10. Computer Engineering: 5089
