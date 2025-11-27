@@ -5,3 +5,7 @@ data.jsonl
 data.json
 usa_decisions_cleaned_with_uuid.jsonl
 *.ipynb_checkpoints/
+
+# macOS system files
+.DS_Store
+**/.DS_Store
