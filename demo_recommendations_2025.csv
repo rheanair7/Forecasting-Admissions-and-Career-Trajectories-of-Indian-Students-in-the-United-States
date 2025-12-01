@@ -1,0 +1,31 @@
+university_name,university_tier,admission_probability,bucket
+Stevens Institute of Technology,Top_100,0.6437943738325538,Safe
+New Jersey Institute of Technology,Top_100,0.6273272613207388,Safe
+University at Buffalo SUNY,Top_100,0.6105502659934106,Target
+Illinois Institute of Technology,Top_200,0.6101929295675717,Safe
+The University of Texas at Arlington,Others,0.6090680281410551,Safe
+Syracuse University,Top_100,0.6017223816769486,Target
+University of Illinois at Chicago,Top_100,0.599441838282291,Target
+"Northeastern University, Boston",Top_100,0.5972962800572695,Target
+Indiana University Bloomington,Top_100,0.5942535556008899,Target
+Arizona State University,Top_200,0.5910724540115754,Target
+"North Carolina State University, Raleigh",Top_100,0.5907290151209051,Target
+University of Massachusetts Amherst,Top_100,0.5896804890606501,Target
+George Mason University,Top_200,0.588894024525356,Target
+"University of Maryland, Baltimore County",Others,0.588850915893365,Target
+Stony Brook University,Top_100,0.5855761214532141,Target
+The University of Texas at Dallas,Top_200,0.5852064323872929,Target
+University of New Haven,Others,0.58520409560408,Target
+University of Cincinnati,Top_200,0.5843046772644066,Target
+University of North Carolina at Charlotte,Top_200,0.5789075666965341,Target
+University of South Florida,Top_100,0.5781680787006925,Target
+San Jose State University,Others,0.5687784974666841,Target
+"Texas A&M University, College Station",Top_100,0.5634679521196438,Target
+University of Southern California,Top_50,0.5430501593699754,Target
+New York University,Top_50,0.5428270805953864,Target
+"University of Maryland, College Park",Top_50,0.5333444952266596,Target
+Carnegie Mellon University,Top_50,0.5299635793999875,Target
+Purdue University West Lafayette,Top_50,0.5217664971371632,Target
+Georgia Institute of Technology,Top_50,0.518112240860193,Reach
+University of Illinois Urbana-Champaign,Top_50,0.5148230996061283,Reach
+University of Texas at Austin,Top_50,0.5002404020124999,Reach
