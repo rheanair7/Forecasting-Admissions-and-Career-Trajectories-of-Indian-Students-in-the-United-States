@@ -9,3 +9,7 @@ usa_decisions_cleaned_with_uuid.jsonl
 # macOS system files
 .DS_Store
 **/.DS_Store
+
+# Model files (too large for GitHub)
+models/*.pkl
+*.pkl
